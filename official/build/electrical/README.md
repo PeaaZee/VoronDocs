@@ -30,6 +30,8 @@ When assembling Microfit connectors, the male pins are inserted into the female 
 
 The spec'ed silicone wire has been chosen because it has a very high strand count, which means it has higher fatigue life. Silicone insulation withstands heat and is more flexible which is good in high movement applications. It is less prone to snagging on other wires or the walls inside the cable chain. Check your cable loom before installing the chains.
 
+PTFE wires might be even better in this case, as they have a thinner insulation and a lower friction coefficient which increases bending capabilities and decreases wear. But these advantages only come to shine in printers that use cable chains with predefined bending radii (V0 Z-Chain, V1, V2, SW). For printers with an umbilical cord cabling setup (V0 Toolhead, Legacy), they might be overkill.
+
 See the cable lengths and count section for specific counts. Do not downsize the hot end heater wires, they are oversized for safety reasons. 
 
 You may add additional wires to your cable chains as a replacement in case of wire breaks. However, these cables will be heated/cooled and moved around as much as your live cables and may be broken already when you need them! So it is better to keep a few properly dimensioned cables as spares outside of the printer.
